@@ -1,0 +1,19 @@
+1. How long did you spend completing the assignment? How (if at all) would you change
+your solution if you had more time?
+
+Around 6-8 hours. I would change to a more friendly interface than the command line.
+I would also probably change the code and store the bouy readings as custom objects rather than a list.
+Although this would depend on how the data was to be used. 
+
+2. Can you describe a feature (perhaps with some reference code) that exists in your
+chosen programming language that you found particularly useful?
+
+List comprehension in Python, the ability to quickly create lists without the need for repeated for loops. See line 23.
+Also the inbuilt functions in Python for example in requests often make complicated procedures easy.
+
+
+3. How would you track down a performance issue with yours or another developer's code?
+
+First I would look into any code which may be waiting on a response or where the network/internet connection speed may be limiting.
+If it appears that it may be due to certain operations that are causing the slow down I would use functions such as timeit in python to see which functions my be 
+causing performace issues. 
