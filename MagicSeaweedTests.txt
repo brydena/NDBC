@@ -1,0 +1,380 @@
+MagicSeaweed.py Tests:
+
+Input: 59 -141
+Output:The number of observations within 100 miles and the past 3 hours is: 3.
+Buoy Reference: 46082
+Latitude (degrees): 59.681
+Longitude (degrees): -143.372
+Time (UTC): 2019-02-17 20:50:00
+Wind Direction (degrees): Not recorded
+Wind Speed (m/s): Not recorded
+Wave height (m): 3.3
+Average period (s): 5.9
+Atmospheric pressure (hPa): 1022.4
+Air Temperature (degC): 1.9
+
+Buoy Reference: ICYA2
+Latitude (degrees): 59.927
+Longitude (degrees): -141.359
+Time (UTC): 2019-02-17 20:42:00
+Wind Direction (degrees): 60
+Wind Speed (m/s): 1.5
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): Not recorded
+Air Temperature (degC): Not recorded
+
+Buoy Reference: YATA2
+Latitude (degrees): 59.548
+Longitude (degrees): -139.733
+Time (UTC): 2019-02-17 20:42:00
+Wind Direction (degrees): Not recorded
+Wind Speed (m/s): Not recorded
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1030.4
+Air Temperature (degC): Not recorded
+
+Input: 38, -77
+Output:
+The number of observations within 100 miles and the past 3 hours is: 31.
+Buoy Reference: 44064
+Latitude (degrees): 36.998
+Longitude (degrees): -76.087
+Time (UTC): 2019-02-17 20:50:00
+Wind Direction (degrees): 140
+Wind Speed (m/s): 6.0
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1017.2
+Air Temperature (degC): 4.7
+
+Buoy Reference: 44072
+Latitude (degrees): 37.201
+Longitude (degrees): -76.266
+Time (UTC): 2019-02-17 20:50:00
+Wind Direction (degrees): Not recorded
+Wind Speed (m/s): Not recorded
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): Not recorded
+Air Temperature (degC): 4.6
+
+Buoy Reference: 44087
+Latitude (degrees): 37.026
+Longitude (degrees): -76.151
+Time (UTC): 2019-02-17 21:00:00
+Wind Direction (degrees): Not recorded
+Wind Speed (m/s): Not recorded
+Wave height (m): 0.4
+Average period (s): 3.3
+Atmospheric pressure (hPa): Not recorded
+Air Temperature (degC): Not recorded
+
+Buoy Reference: 44089
+Latitude (degrees): 37.757
+Longitude (degrees): -75.334
+Time (UTC): 2019-02-17 21:00:00
+Wind Direction (degrees): Not recorded
+Wind Speed (m/s): Not recorded
+Wave height (m): 0.9
+Average period (s): 5.0
+Atmospheric pressure (hPa): Not recorded
+Air Temperature (degC): Not recorded
+
+Buoy Reference: APAM2
+Latitude (degrees): 38.983
+Longitude (degrees): -76.479
+Time (UTC): 2019-02-17 20:48:00
+Wind Direction (degrees): Not recorded
+Wind Speed (m/s): Not recorded
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1017.0
+Air Temperature (degC): 2.7
+
+Buoy Reference: BISM2
+Latitude (degrees): 38.220
+Longitude (degrees): -76.039
+Time (UTC): 2019-02-17 20:48:00
+Wind Direction (degrees): 270
+Wind Speed (m/s): 2.1
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1018.8
+Air Temperature (degC): 3.9
+
+Buoy Reference: BLTM2
+Latitude (degrees): 39.267
+Longitude (degrees): -76.579
+Time (UTC): 2019-02-17 20:42:00
+Wind Direction (degrees): 160
+Wind Speed (m/s): 3.1
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1016.7
+Air Temperature (degC): 1.9
+
+Buoy Reference: BSLM2
+Latitude (degrees): 38.781
+Longitude (degrees): -76.708
+Time (UTC): 2019-02-17 19:30:00
+Wind Direction (degrees): 70
+Wind Speed (m/s): 2.6
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1018.0
+Air Temperature (degC): 2.7
+
+Buoy Reference: CANot recorded2
+Latitude (degrees): 38.574
+Longitude (degrees): -76.069
+Time (UTC): 2019-02-17 20:42:00
+Wind Direction (degrees): Not recorded
+Wind Speed (m/s): Not recorded
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1018.2
+Air Temperature (degC): 4.3
+
+Buoy Reference: CHYV2
+Latitude (degrees): 36.926
+Longitude (degrees): -76.007
+Time (UTC): 2019-02-17 20:48:00
+Wind Direction (degrees): 110
+Wind Speed (m/s): 5.7
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1015.6
+Air Temperature (degC): 4.7
+
+Buoy Reference: COVM2
+Latitude (degrees): 38.402
+Longitude (degrees): -76.385
+Time (UTC): 2019-02-17 20:48:00
+Wind Direction (degrees): 170
+Wind Speed (m/s): 0.5
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): Not recorded
+Air Temperature (degC): 2.3
+
+Buoy Reference: CRYV2
+Latitude (degrees): 36.888
+Longitude (degrees): -76.338
+Time (UTC): 2019-02-17 20:48:00
+Wind Direction (degrees): 130
+Wind Speed (m/s): 4.6
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1016.6
+Air Temperature (degC): 6.0
+
+Buoy Reference: DOMV2
+Latitude (degrees): 36.962
+Longitude (degrees): -76.424
+Time (UTC): 2019-02-17 20:42:00
+Wind Direction (degrees): 100
+Wind Speed (m/s): 5.1
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1017.1
+Air Temperature (degC): 5.5
+
+Buoy Reference: FSKM2
+Latitude (degrees): 39.219
+Longitude (degrees): -76.528
+Time (UTC): 2019-02-17 20:48:00
+Wind Direction (degrees): 120
+Wind Speed (m/s): 5.1
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1016.9
+Air Temperature (degC): 1.2
+
+Buoy Reference: FSNM2
+Latitude (degrees): 39.219
+Longitude (degrees): -76.525
+Time (UTC): 2019-02-17 20:42:00
+Wind Direction (degrees): 140
+Wind Speed (m/s): 5.1
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1016.4
+Air Temperature (degC): 1.1
+
+Buoy Reference: KPTV2
+Latitude (degrees): 37.165
+Longitude (degrees): -75.988
+Time (UTC): 2019-02-17 20:42:00
+Wind Direction (degrees): 120
+Wind Speed (m/s): 3.6
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): Not recorded
+Air Temperature (degC): Not recorded
+
+Buoy Reference: LWTV2
+Latitude (degrees): 37.995
+Longitude (degrees): -76.465
+Time (UTC): 2019-02-17 20:42:00
+Wind Direction (degrees): 30
+Wind Speed (m/s): 3.1
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1018.3
+Air Temperature (degC): 3.4
+
+Buoy Reference: MNPV2
+Latitude (degrees): 36.778
+Longitude (degrees): -76.302
+Time (UTC): 2019-02-17 20:42:00
+Wind Direction (degrees): 130
+Wind Speed (m/s): 4.6
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1016.7
+Air Temperature (degC): 6.7
+
+Buoy Reference: NCDV2
+Latitude (degrees): 38.320
+Longitude (degrees): -77.037
+Time (UTC): 2019-02-17 20:42:00
+Wind Direction (degrees): 120
+Wind Speed (m/s): 3.1
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1016.6
+Air Temperature (degC): 3.0
+
+Buoy Reference: PPTM2
+Latitude (degrees): 38.134
+Longitude (degrees): -76.533
+Time (UTC): 2019-02-17 20:42:00
+Wind Direction (degrees): 130
+Wind Speed (m/s): 3.1
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): Not recorded
+Air Temperature (degC): Not recorded
+
+Buoy Reference: RPLV2
+Latitude (degrees): 37.538
+Longitude (degrees): -76.014
+Time (UTC): 2019-02-17 20:48:00
+Wind Direction (degrees): 140
+Wind Speed (m/s): 7.7
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1017.0
+Air Temperature (degC): Not recorded
+
+Buoy Reference: SLIM2
+Latitude (degrees): 38.321
+Longitude (degrees): -76.452
+Time (UTC): 2019-02-17 20:48:00
+Wind Direction (degrees): 120
+Wind Speed (m/s): 1.5
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1017.3
+Air Temperature (degC): 2.4
+
+Buoy Reference: SWPV2
+Latitude (degrees): 36.943
+Longitude (degrees): -76.329
+Time (UTC): 2019-02-17 20:42:00
+Wind Direction (degrees): Not recorded
+Wind Speed (m/s): Not recorded
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1016.8
+Air Temperature (degC): Not recorded
+
+Buoy Reference: TCBM2
+Latitude (degrees): 39.213
+Longitude (degrees): -76.244
+Time (UTC): 2019-02-17 20:48:00
+Wind Direction (degrees): 230
+Wind Speed (m/s): 1.0
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1017.5
+Air Temperature (degC): 1.4
+
+Buoy Reference: TPLM2
+Latitude (degrees): 38.899
+Longitude (degrees): -76.436
+Time (UTC): 2019-02-17 21:00:00
+Wind Direction (degrees): 80
+Wind Speed (m/s): 1.5
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1017.8
+Air Temperature (degC): 1.1
+
+Buoy Reference: WAHV2
+Latitude (degrees): 37.608
+Longitude (degrees): -75.686
+Time (UTC): 2019-02-17 20:48:00
+Wind Direction (degrees): 140
+Wind Speed (m/s): 4.1
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1016.0
+Air Temperature (degC): 5.3
+
+Buoy Reference: WASD2
+Latitude (degrees): 38.873
+Longitude (degrees): -77.021
+Time (UTC): 2019-02-17 20:48:00
+Wind Direction (degrees): 140
+Wind Speed (m/s): 2.6
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): Not recorded
+Air Temperature (degC): Not recorded
+
+Buoy Reference: WDSV2
+Latitude (degrees): 36.977
+Longitude (degrees): -76.315
+Time (UTC): 2019-02-17 20:42:00
+Wind Direction (degrees): 120
+Wind Speed (m/s): 4.6
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1016.4
+Air Temperature (degC): 5.0
+
+Buoy Reference: YKRV2
+Latitude (degrees): 37.251
+Longitude (degrees): -76.342
+Time (UTC): 2019-02-17 20:48:00
+Wind Direction (degrees): 160
+Wind Speed (m/s): 6.7
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1016.9
+Air Temperature (degC): 4.5
+
+Buoy Reference: YKTV2
+Latitude (degrees): 37.227
+Longitude (degrees): -76.479
+Time (UTC): 2019-02-17 20:48:00
+Wind Direction (degrees): 140
+Wind Speed (m/s): 4.1
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1016.1
+Air Temperature (degC): 4.8
+
+Buoy Reference: YRSV2
+Latitude (degrees): 37.414
+Longitude (degrees): -76.712
+Time (UTC): 2019-02-17 20:30:00
+Wind Direction (degrees): 160
+Wind Speed (m/s): 1.5
+Wave height (m): Not recorded
+Average period (s): Not recorded
+Atmospheric pressure (hPa): 1017.0
+Air Temperature (degC): 4.9
